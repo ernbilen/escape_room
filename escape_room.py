@@ -68,7 +68,7 @@ code=8354
 %matplotlib inline
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-img = plt.imread(r'C:\users\eren\downloads\pixedlart.png')
+img = plt.imread('pixedlart.png')
 plt.xticks([])
 plt.yticks([])
 plt.imshow(img)
