@@ -66,13 +66,13 @@ time.sleep(.2)
 code=8354
 
 
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-img = plt.imread('pixedlart.png')
-plt.xticks([])
-plt.yticks([])
-plt.imshow(img)
-plt.show()
+#import matplotlib.pyplot as plt
+#import matplotlib.image as mpimg
+#img = plt.imread('pixedlart.png')
+#plt.xticks([])
+#plt.yticks([])
+#plt.imshow(img)
+#plt.show()
 
 input(f"You find yourself in a room resembling an old classroom. On the right, there are desks with stationary materials. In the corner there is a bookshelf covered in cobwebs. On the walls there are photos of a family, a clock, and a telephone.\n")
 input(f"You try leaving the classroom, but the door is locked! To open it, you need a 4 digit code.\n")
