@@ -1,1 +1,1 @@
-web escaperoomecon app:app
+escaperoomecon: python escape_room.py
