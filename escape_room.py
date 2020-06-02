@@ -65,7 +65,7 @@ print(f"-"*30)
 time.sleep(.2)
 code=8354
 
-%matplotlib inline
+
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 img = plt.imread('pixedlart.png')
